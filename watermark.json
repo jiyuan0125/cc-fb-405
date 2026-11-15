@@ -1,0 +1,15 @@
+{
+  "src_web": {
+    "lines": 806
+  },
+  "src_app": {
+    "batches": [
+      "batch_001",
+      "batch_002",
+      "batch_003"
+    ]
+  },
+  "src_ivr": {
+    "last_time": "2026-09-10T23:56:00"
+  }
+}
